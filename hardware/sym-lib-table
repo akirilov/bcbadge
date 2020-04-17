@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ABM8G12000MHZB4YT3")(type "Legacy")(uri "${KIPRJMOD}/lib/ABM8G12000MHZB4YT3/ABM8G12000MHZB4YT3.lib")(options "")(descr ""))
+  (lib (name "Connector_USB_PCB")(type "Legacy")(uri "${KIPRJMOD}/lib/Connector_USB_PCB/Connector_USB_PCB.lib")(options "")(descr ""))
+)

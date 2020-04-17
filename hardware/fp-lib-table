@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ABM8G12000MHZB4YT3")(type "KiCad")(uri "${KIPRJMOD}/lib/ABM8G12000MHZB4YT3/ABM8G12000MHZB4YT3.pretty")(options "")(descr ""))
+  (lib (name "Connector_USB_PCB")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_USB_PCB/Connector_USB_PCB.pretty")(options "")(descr ""))
+)
